@@ -12,6 +12,7 @@
 		7DBBDA0C1B6C98E4005511F9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7DBBDA0A1B6C98E4005511F9 /* Main.storyboard */; };
 		7DBBDA0E1B6C98E4005511F9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7DBBDA0D1B6C98E4005511F9 /* Assets.xcassets */; };
 		7DBBDA111B6C98E4005511F9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7DBBDA0F1B6C98E4005511F9 /* LaunchScreen.storyboard */; };
+		7DBBDA191B6C9BDA005511F9 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 7DBBDA181B6C9BDA005511F9 /* background.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		7DBBDA0D1B6C98E4005511F9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7DBBDA101B6C98E4005511F9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7DBBDA121B6C98E4005511F9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7DBBDA181B6C9BDA005511F9 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		7DBBDA051B6C98E4005511F9 /* Whats the weather */ = {
 			isa = PBXGroup;
 			children = (
+				7DBBDA181B6C9BDA005511F9 /* background.png */,
 				7DBBDA061B6C98E4005511F9 /* AppDelegate.swift */,
 				7DBBDA081B6C98E4005511F9 /* ViewController.swift */,
 				7DBBDA0A1B6C98E4005511F9 /* Main.storyboard */,
@@ -122,6 +125,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7DBBDA111B6C98E4005511F9 /* LaunchScreen.storyboard in Resources */,
+				7DBBDA191B6C9BDA005511F9 /* background.png in Resources */,
 				7DBBDA0E1B6C98E4005511F9 /* Assets.xcassets in Resources */,
 				7DBBDA0C1B6C98E4005511F9 /* Main.storyboard in Resources */,
 			);
