@@ -60,13 +60,13 @@
                                     <action selector="getWeatherBtn:" destination="BYZ-38-t0r" eventType="touchUpInside" id="szK-aS-Wxj"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ETq-i2-K8Z">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="justified" lineBreakMode="tailTruncation" numberOfLines="5" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ETq-i2-K8Z">
                                 <rect key="frame" x="139" y="301" width="323" height="179"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="323" id="HuK-dy-UV1"/>
                                     <constraint firstAttribute="height" constant="179" id="pUr-Ef-YC3"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
